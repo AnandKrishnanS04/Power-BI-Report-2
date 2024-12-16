@@ -1,1 +1,4 @@
 # Power-BI-Report-2
+
+
+The Power BI dashboard is designed to support strategic decision-making for fiber optics customer operations and sales. It provides actionable insights to help increase technical support capacity for fiber optics customers and reduce tech support tickets per customer to 0.5. The dashboard tracks the performance of sales initiatives, aiming for a 5% increase in 1-year and 2-year contract sales and a 5% annual growth in automatic payment adoption. Additionally, it offers a comprehensive view of customer demographics, account information, and subscribed services. The dashboard includes detailed metrics on Internet services, contract types, and payment methods, enabling a deep dive into customer preferences and behaviors. These insights empower teams to optimize operations, enhance customer satisfaction, and drive business growth.
